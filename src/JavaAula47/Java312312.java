@@ -9,6 +9,6 @@ package JavaAula47;
  *
  * @author gabri
  */
-public class Java {
+public class Java312312 {
     
 }
